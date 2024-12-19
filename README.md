@@ -6,7 +6,7 @@ Hey there! 👋 I've mastered **Python** by learning it all by myself, step by s
 
 I’ve uploaded everything I’ve learned to this repository, covering topics from beginner to advanced. Check them out below:  
 
-- [Introduction to Python](./path-to-file/intro-to-python.md)  
+- [Introduction to Python](01.hello_world.py)  
 - [Data Types and Variables](./path-to-file/data-types.md)  
 - [Control Flow (If, Else, Loops)](./path-to-file/control-flow.md)  
 - [Functions and Modules](./path-to-file/functions-and-modules.md)  
