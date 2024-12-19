@@ -7,13 +7,16 @@ Hey there! 👋 I've mastered **Python** by learning it all by myself, step by s
 I’ve uploaded everything I’ve learned to this repository, covering topics from beginner to advanced. Check them out below:  
 
 - [Introduction to Python](01.hello_world.py)  
-- [Data Types and Variables](./path-to-file/data-types.md)  
-- [Control Flow (If, Else, Loops)](./path-to-file/control-flow.md)  
-- [Functions and Modules](./path-to-file/functions-and-modules.md)  
-- [Object-Oriented Programming (OOP)](./path-to-file/oop.md)  
-- [Working with Files](./path-to-file/working-with-files.md)  
-- [Libraries: Pandas, NumPy, and Matplotlib](./path-to-file/python-libraries.md)  
-- [Error Handling](./path-to-file/error-handling.md)  
+- [Strings](02.strings.py)  
+- [Variables](02.1variables.py)  
+- [lists](03.lists_check.py)  
+- [Working with Lists](04.working_with_lists.py)  
+- [Tuples](04.1Tuples.py)  
+- [IF Statements](05.if_statements.py)  
+- [Dictionaries](6.Dictionaries.py)
+- [User_input and Loops](07user_inputandloops.py)
+- [Functions](08.Functions.py)
+- [Classes](09.Classes.py) 
 
 ### 🛠 Learn Python Like I Did  
 
