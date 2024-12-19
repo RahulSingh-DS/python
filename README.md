@@ -8,7 +8,7 @@ I’ve uploaded everything I’ve learned to this repository, covering topics fr
 
 - [Introduction to Python](01.hello_world.py)  
 - [Strings](02.strings.py)  
-- [Variables](02.1 variables.py)  
+- [Variables](02.1variables.py)  
 - [lists](03.lists_check.py)  
 - [Working with Lists](04.working_with_lists.py)  
 - [Tuples](04.1Tuples.py)  
